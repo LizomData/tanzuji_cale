@@ -2,7 +2,7 @@
  tanzuji_cale
 
 <div class="RepoCover" align="center">
-  <a href="#"><img style="width:600;height:675" src="https://github.com/930837329/StudyNote-Kexie/blob/main/previewFix.jpg?raw=true"></a>
+  <a href="#"><img style="width:600;height:675" src="https://github.com/930837329/tanzuji_cale/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-05-22%20132626.png?raw=true"></a>
   <br>
   <a href="https://discord.gg/2Na43ZD2XE"><img src="https://img.shields.io/discord/1064910847790563329?color=%2352b4d8&label=Genshin%20Impact%20teleport%20channel&logo=discord&style=for-the-badge"></a>
   <br>
