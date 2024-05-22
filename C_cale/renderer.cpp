@@ -909,7 +909,7 @@ int Overlay::Menu()
 			
 			//µÇÂ½
 			ImVec2 fontsize = ui.CalcTextSize_ex(font, u8" hgy", NULL, true);
-			draw->AddText(font, font->FontSize, point + ImVec2(20.0f, 9.0f) + ImVec2(47, 23.5f - fontsize.y / 2.0f), color_grey, u8" hgy");
+			draw->AddText(font, font->FontSize, point + ImVec2(20.0f, 9.0f) + ImVec2(47, 23.5f - fontsize.y / 2.0f), color_grey, u8" hgy4");
 
 			//ÍË³ö
 			ImGui::SetCursorPos(ImVec2(size.x - 90.0f - 47 - 8, 5.0f));

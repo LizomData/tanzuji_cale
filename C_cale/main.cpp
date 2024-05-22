@@ -38,7 +38,7 @@ void post_chat(const Request& req, Response& res)
 		if (isJson || !body_json.HasMember("chat"))
 		{
 			res_json["code"] = Value(1);
-			res_json["mes"] = Value(u8"格式错误", res_json.GetAllocator());
+			res_json["mes"] = Value(u8"格式错误1", res_json.GetAllocator());
 
 			break;
 		}

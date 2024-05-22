@@ -1,63 +1,47 @@
-﻿  imGuiUI.cpp
-  imgui.cpp
-  imgui_demo.cpp
-  imgui_draw.cpp
-  imgui_impl_dx11.cpp
-  imgui_impl_win32.cpp
-  imgui_tables.cpp
-  imgui_widgets.cpp
-D:\C++Code\C_cale\C_cale\imgui\imgui_widgets.cpp(1069,43): warning C4305: “参数”: 从“double”到“const float”截断
-D:\C++Code\C_cale\C_cale\imgui\imgui_widgets.cpp(1069,71): warning C4305: “参数”: 从“double”到“const float”截断
-  main.cpp
-D:\C++Code\C_cale\C_cale\renderer.h(451,2): warning C4091: “typedef ”: 没有声明变量时忽略“Overlay”的左侧
-D:\C++Code\C_cale\C_cale\main.cpp(189,55): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-D:\C++Code\C_cale\C_cale\main.cpp(367,60): warning C4267: “参数”: 从“size_t”转换到“rapidjson::SizeType”，可能丢失数据
-D:\C++Code\C_cale\C_cale\main.cpp(368,60): warning C4267: “参数”: 从“size_t”转换到“rapidjson::SizeType”，可能丢失数据
-  renderer.cpp
-D:\C++Code\C_cale\C_cale\renderer.h(451,2): warning C4091: “typedef ”: 没有声明变量时忽略“Overlay”的左侧
-D:\C++Code\C_cale\C_cale\renderer.cpp(562,16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(654,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(669,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1004,77): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1213,12): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1214,12): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1215,5): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1216,5): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1217,11): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1218,18): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1219,10): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1220,32): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1221,12): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1222,22): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1223,15): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1226,11): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1227,5): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1228,12): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1229,11): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1230,10): warning C4305: “初始化”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1414,65): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1414,124): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1414,174): warning C4305: “参数”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1414,164): warning C4305: “参数”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1417,107): warning C4305: “参数”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1417,81): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1420,107): warning C4305: “参数”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1420,63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1423,107): warning C4305: “参数”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1423,63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1426,107): warning C4305: “参数”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1426,63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1429,107): warning C4305: “参数”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1429,63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1432,117): warning C4305: “参数”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1432,83): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1438,134): warning C4305: “参数”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1438,83): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1448,150): warning C4305: “参数”: 从“double”到“float”截断
-D:\C++Code\C_cale\C_cale\renderer.cpp(1448,83): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1461,62): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1461,124): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1462,84): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-D:\C++Code\C_cale\C_cale\renderer.cpp(1463,84): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-  正在生成代码...
-  C_cale.vcxproj -> D:\C++Code\C_cale\x64\Debug\C_cale.exe
+﻿  renderer.cpp
+D:\C++Code\tanzuji_cale\C_cale\renderer.h(451,2): warning C4091: “typedef ”: 没有声明变量时忽略“Overlay”的左侧
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(562,16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(654,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(669,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1004,77): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1213,12): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1214,12): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1215,5): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1216,5): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1217,11): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1218,18): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1219,10): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1220,32): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1221,12): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1222,22): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1223,15): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1226,11): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1227,5): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1228,12): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1229,11): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1230,10): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1414,65): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1414,124): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1414,174): warning C4305: “参数”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1414,164): warning C4305: “参数”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1417,107): warning C4305: “参数”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1417,81): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1420,107): warning C4305: “参数”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1420,63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1423,107): warning C4305: “参数”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1423,63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1426,107): warning C4305: “参数”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1426,63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1429,107): warning C4305: “参数”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1429,63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1432,117): warning C4305: “参数”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1432,83): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1438,134): warning C4305: “参数”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1438,83): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1448,150): warning C4305: “参数”: 从“double”到“float”截断
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1448,83): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1461,62): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1461,124): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1462,84): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\C++Code\tanzuji_cale\C_cale\renderer.cpp(1463,84): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  C_cale.vcxproj -> D:\C++Code\tanzuji_cale\x64\Debug\C_cale.exe
