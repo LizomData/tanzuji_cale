@@ -1,4 +1,4 @@
-# tanzuji_cale
+# tanzuji_calc
  基于imgui轻量化框架的碳足迹计算器桌面端
 
 <div class="RepoCover" align="center">
